@@ -1,0 +1,6 @@
+Game Over
+You guessed 2 out of 3 colors correctly.
+Due Date: 06/18/25
+Username: Fatima Zahid
+User Description: I am a CMSC203 student and a CS major
+Date: 06/18/25
